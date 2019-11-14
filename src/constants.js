@@ -1,0 +1,5 @@
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const DELETE_ALL_PRODUCTS = "DELETE_ALL_PRODUCTS";
+
+export const CHANGE_ROLE = "CHANGE_ROLE";
